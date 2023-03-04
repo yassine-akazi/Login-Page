@@ -3,7 +3,7 @@
 ## Getting Started
 - To get started, simply clone this repository to your local machine or download the ZIP file.
 ```
-git clone https://github.com/yassine-akazi/Login-Page-.git
+git clone https://github.com/yassine-akazi/Login-Page.git
 ```
 ## Prerequisites
 - You will need a web browser to view and interact with the login page.
